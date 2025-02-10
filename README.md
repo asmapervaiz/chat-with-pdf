@@ -33,6 +33,7 @@ Git (for version control)
 ## Clone the Repository
 
 git clone https://github.com/yourusername/pdf-chatbot.git
+
 cd pdf-chatbot
 
 ## Environment Variables
