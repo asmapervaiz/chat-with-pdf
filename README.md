@@ -2,7 +2,7 @@
 
 This project is a PDF Chatbot application that allows users to upload PDF documents and interact with the content via an AI-powered chatbot. The backend is built with FastAPI, and the frontend is developed using Streamlit.
 
-# Features
+## Features
 
 Upload PDFs: Easily upload PDF files to extract and analyze content.
 
@@ -10,7 +10,7 @@ Chat with PDFs: Ask questions and receive insights directly from your PDF docume
 
 User-Friendly Interface: Simple and interactive UI for seamless user experience.
 
-# Technologies Used
+## Technologies Used
 
 FastAPI: For building the backend API.
 
