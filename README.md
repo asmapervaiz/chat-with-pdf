@@ -20,7 +20,7 @@ OpenAI API: For AI-powered responses.
 
 Docker: For containerization and easy deployment.
 
-# Setup Instructions
+## Setup Instructions
 
 Prerequisites
 
@@ -30,12 +30,12 @@ Docker (for containerization)
 
 Git (for version control)
 
-# Clone the Repository
+## Clone the Repository
 
 git clone https://github.com/yourusername/pdf-chatbot.git
 cd pdf-chatbot
 
-# Environment Variables
+## Environment Variables
 
 Create a .env file in the project root directory and add your OpenAI API key:
 
@@ -43,26 +43,26 @@ OPENAI_API_KEY= your openai key here
 
 # Running Locally Without Docker
 
-# Install dependencies:
+## Install dependencies:
 
 pip install -r requirements.txt
 
-# 1.Run FastAPI Backend:
+## 1.Run FastAPI Backend:
 
 uvicorn api:app --reload
 
-# 2.Run Streamlit Frontend:
+## 2.Run Streamlit Frontend:
 
 streamlit run pdf_chatbot_ui.py
 
-API Documentation
+#API Documentation
 
-# 1.Upload PDF
+## 1.Upload PDF
 
-# Endpoint: 
+## Endpoint: 
 /upload/
 
-# Method: POST
+## Method: POST
 
 # Parameters:
 
