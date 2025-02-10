@@ -91,9 +91,7 @@ AI-generated answer based on the PDF content.
 
 # Project Structure
 
-![image](https://github.com/user-attachments/assets/76699fa0-b61c-4e69-a60b-27194e088b2d)
-
-
+![Uploading image.png…]()
 
 # License
 
