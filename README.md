@@ -42,17 +42,15 @@ Create a .env file in the project root directory and add your OpenAI API key:
 
 OPENAI_API_KEY= your openai key here
 
-### 3. Running Locally 
-
-### Install dependencies:
+### 3. Install dependencies:
 
 pip install -r requirements.txt
 
-### 4.Run FastAPI Backend:
+### 4. Run FastAPI Backend:
 
 uvicorn api:app --reload
 
-### 5.Run Streamlit Frontend:
+### 5. Run Streamlit Frontend:
 
 streamlit run pdf_chatbot_ui.py
 
