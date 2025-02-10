@@ -91,13 +91,9 @@ AI-generated answer based on the PDF content.
 
 # Project Structure
 
-pdf-chatbot/
-├── api.py                  # FastAPI backend code
-├── pdf_chatbot_ui.py       # Streamlit UI code
-├── Dockerfile              # Docker configuration
-├── requirements.txt        # Project dependencies
-├── .env                    # Environment variables
-└── README.md               # Project documentation
+![image](https://github.com/user-attachments/assets/76699fa0-b61c-4e69-a60b-27194e088b2d)
+
+
 
 # License
 
