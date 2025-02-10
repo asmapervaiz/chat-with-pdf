@@ -60,12 +60,12 @@ streamlit run pdf_chatbot_ui.py
 
 ## 1.Upload PDF
 
-## Endpoint: 
+### Endpoint: 
 /upload/
 
-## Method: POST
+### Method: POST
 
-# Parameters:
+### Parameters:
 
 user_id: User identifier (required).
 
@@ -73,14 +73,14 @@ Body: PDF file (multipart/form-data).
 
 Response: Success or error message.
 
-# 2.Chat with PDF
+## 2.Chat with PDF
 
-# Endpoint: 
+### Endpoint: 
 /chat/
 
-# Method: POST
+### Method: POST
 
-# Body:
+### Body:
 {
   "user_id": "<user_id>",
   "query": "<your_question>"
