@@ -55,7 +55,7 @@ uvicorn api:app --reload
 
 streamlit run pdf_chatbot_ui.py
 
-#API Documentation
+# API Documentation
 
 ## 1.Upload PDF
 
@@ -85,7 +85,7 @@ Response: Success or error message.
   "query": "<your_question>"
 }
 
-# Response: 
+## Response: 
 AI-generated answer based on the PDF content.
 
 # Project Structure
