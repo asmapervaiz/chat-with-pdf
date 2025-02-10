@@ -30,29 +30,29 @@ Docker (for containerization)
 
 Git (for version control)
 
-## Clone the Repository
+### 1. Clone the Repository
 
 git clone https://github.com/yourusername/pdf-chatbot.git
 
 cd pdf-chatbot
 
-## Environment Variables
+### 2. Environment Variables
 
 Create a .env file in the project root directory and add your OpenAI API key:
 
 OPENAI_API_KEY= your openai key here
 
-# Running Locally Without Docker
+### 3. Running Locally 
 
-## Install dependencies:
+### Install dependencies:
 
 pip install -r requirements.txt
 
-## 1.Run FastAPI Backend:
+### 4.Run FastAPI Backend:
 
 uvicorn api:app --reload
 
-## 2.Run Streamlit Frontend:
+### 5.Run Streamlit Frontend:
 
 streamlit run pdf_chatbot_ui.py
 
