@@ -1,0 +1,16 @@
+fastapi
+pydantic
+python-dotenv
+pymupdf
+faiss-cpu
+langchain
+langchain-community
+openai
+uvicorn
+PyPDF2
+python-multipart
+tiktoken
+fitz
+streamlit-chat
+streamlit
+requests
