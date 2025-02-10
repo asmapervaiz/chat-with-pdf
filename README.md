@@ -32,9 +32,9 @@ Git (for version control)
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/pdf-chatbot.git
+git clone https://github.com/asmapervaiz/chat-with-pdf.git
 
-cd pdf-chatbot
+cd chat-with-pdf
 
 ### 2. Environment Variables
 
